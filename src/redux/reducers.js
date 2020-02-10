@@ -1,3 +1,8 @@
+// A file with functions that determine 
+// how to serve your state (more on that 
+// next lesson)
+
+
 import { combineReducers } from 'redux'
 
 const user = (state = null) => state

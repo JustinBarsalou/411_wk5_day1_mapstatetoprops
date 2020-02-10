@@ -1,3 +1,5 @@
+// The initial state of your application.
+
 export default {
     // Add user property here
     cars: [
